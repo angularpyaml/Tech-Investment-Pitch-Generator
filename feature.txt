@@ -1,0 +1,2 @@
+# Daily Notes
+Correct decimal precision issue in financial reporting
